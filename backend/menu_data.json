@@ -1,0 +1,27 @@
+[
+  { "category": "Entradas", "name": "Pão com Chouriço", "description": "Pão caseiro com chouriço regional.", "ingredients": "Farinha, água, chouriço." },
+  { "category": "Entradas", "name": "Azeitonas Temperadas", "description": "Azeitonas com alho e ervas.", "ingredients": "Azeitonas, alho, azeite, orégãos." },
+  { "category": "Entradas", "name": "Tábua de Queijos", "description": "Seleção de queijos nacionais.", "ingredients": "Queijo de ovelha, queijo de cabra, rendas." },
+  { "category": "Entradas", "name": "Pastéis de Bacalhau", "description": "Unidade de pastel de bacalhau frito.", "ingredients": "Bacalhau, batata, ovo, salsa." },
+
+  { "category": "Sopas", "name": "Creme de Cenoura", "description": "Sopa cremosa de cenoura.", "ingredients": "Cenoura, batata, cebola." },
+  { "category": "Sopas", "name": "Caldo Verde", "description": "Sopa tradicional com chouriço.", "ingredients": "Couve galega, batata, chouriço." },
+  { "category": "Sopas", "name": "Sopa de Feijão", "description": "Sopa rica de feijão com massa.", "ingredients": "Feijão encarnado, massa, hortaliça." },
+
+  { "category": "Carne", "name": "Prego no Prato", "description": "Bife de vaca com ovo e batata frita.", "ingredients": "Vaca, ovo, batata, alho." },
+  { "category": "Carne", "name": "Arroz de Pato", "description": "Pato desfiado com arroz no forno.", "ingredients": "Pato, arroz, chouriço, bacon." },
+  { "category": "Carne", "name": "Bifinhos de Peru", "description": "Bifinhos com molho de cogumelos.", "ingredients": "Peru, cogumelos, natas." },
+  { "category": "Carne", "name": "Almôndegas", "description": "Almôndegas com molho de tomate.", "ingredients": "Carne picada, tomate, massa." },
+  { "category": "Carne", "name": "Costeletas de Porco", "description": "Costeletas grelhadas com limão.", "ingredients": "Porco, sal, alho, limão." },
+
+  { "category": "Peixe", "name": "Filetes de Pescada", "description": "Filetes com arroz de tomate.", "ingredients": "Pescada, farinha, arroz, tomate." },
+  { "category": "Peixe", "name": "Bacalhau à Brás", "description": "Bacalhau com batata palha e ovo.", "ingredients": "Bacalhau, ovo, batata, cebola." },
+  { "category": "Peixe", "name": "Dourada Grelhada", "description": "Dourada fresca com batata cozida.", "ingredients": "Dourada, batata, legumes." },
+  { "category": "Peixe", "name": "Arroz de Marisco", "description": "Arroz caldoso com vários mariscos.", "ingredients": "Camarão, amêijoas, arroz, tomate." },
+  { "category": "Peixe", "name": "Salmão no Forno", "description": "Posta de salmão com ervas aromáticas.", "ingredients": "Salmão, alecrim, batata doce." },
+
+  { "category": "Sobremesa", "name": "Mousse de Chocolate", "description": "Mousse caseira de chocolate.", "ingredients": "Chocolate, ovos, açúcar." },
+  { "category": "Sobremesa", "name": "Arroz Doce", "description": "Tradicional com canela.", "ingredients": "Arroz, leite, açúcar, canela." },
+  { "category": "Sobremesa", "name": "Pudim Caseiro", "description": "Pudim de ovos com caramelo.", "ingredients": "Ovos, leite, açúcar, caramelo." },
+  { "category": "Sobremesa", "name": "Fruta da Época", "description": "Seleção de fruta fresca fatiada.", "ingredients": "Fruta variada." }
+]
